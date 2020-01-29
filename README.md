@@ -1,2 +1,2 @@
 # ya.tr
-# hey
+# hey ya
